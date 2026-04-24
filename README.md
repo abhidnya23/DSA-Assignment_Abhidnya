@@ -110,13 +110,13 @@ AIWEBAPP/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Clone Repository
 
 ```
-git clone --depth 1 https://github.com/.git
-cd /AIWebAPP
+git clone --depth 1 [https://github.com/abhidnya23/DSA-Assignment_Abhidnya.git](https://github.com/abhidnya23/DSA-Assignment_Abhidnya)
+cd /DSA-Assignment_Abhidnya
 ```
 
 ### 2. Create Virtual Environment
@@ -153,12 +153,12 @@ streamlit run app.py
 Input:
 
 * Area: 3000 sq ft
-* Bedrooms: 2
-* Bathrooms: 1
+* Bedrooms: 4
+* Bathrooms: 5
 
 Output:
 
-* Predicted Price: 40,35,301 (example)
+* Predicted Price: 5,68,301 (example)
 
 ---
 
