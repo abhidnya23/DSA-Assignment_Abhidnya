@@ -115,7 +115,7 @@ AIWEBAPP/
 ### 1. Clone Repository
 
 ```
-git clone --depth 1 [https://github.com/abhidnya23/DSA-Assignment_Abhidnya.git](https://github.com/abhidnya23/DSA-Assignment_Abhidnya)
+git clone --depth 1 https://github.com/abhidnya23/DSA-Assignment_Abhidnya
 cd /DSA-Assignment_Abhidnya
 ```
 
