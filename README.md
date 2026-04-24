@@ -4,7 +4,7 @@
 
 Below is the user input interface where features like area, bedrooms, and amenities are entered:
 
-![Input Screenshot](screenshots/input.png)
+![Input Screenshot](input.png)
 
 ---
 
@@ -12,7 +12,7 @@ Below is the user input interface where features like area, bedrooms, and amenit
 
 After clicking the **Predict** button, the model returns the estimated house price:
 
-![Output Screenshot](screenshots/output.png)
+![Output Screenshot](output.png)
 
 
 ##  Overview
